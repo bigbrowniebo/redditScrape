@@ -1,7 +1,7 @@
 # redditScrape
 Simple python script that downloads images from Reddit
 
-# Steps to make this work
+## Steps to make this work
 1) Visit https://old.reddit.com/prefs/apps/
 2) Create a new App.
 3) Give your app a name and select script.
